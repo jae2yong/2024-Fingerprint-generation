@@ -11,6 +11,7 @@
 
 **1. Diffusion(thumbnail)**
 참고 : https://huggingface.co/docs/diffusers/tutorials/basic_training
+
 폴더 명 : 2024_synthetic_biometric\fingerprint\Diffusion
 
 ![image](https://github.com/user-attachments/assets/0c30b273-cede-4f5a-a8e2-cf7bcbaed95c)
